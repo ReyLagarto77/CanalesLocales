@@ -2,27 +2,26 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno Cochabamba
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpY68rcTepnjdaJSqHSyoT-FCCMGWNHldbo8k0CVBzIK)/dm/3/x827j2y/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjyUjcc7WBZ3w4ucLInErJzBXmBzDkvbezn4upWzhbuZ)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno Santa Cruz
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkub-BpVaLBmQa2wAr3mDfIkuTCVIqTn3hTu49z3Q2XE)/dm/3/x825whp/d/live-3.m3u8
-
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuSg0O64G7fPkdoODHtiSXWJfHCAqXgYeYFbNh2QmkCe)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno La Paz
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLojJCPSDymfi4kIyRRX_PkWWOpYPYStXlMx0khjuSINv)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqL7yPw-DNglUrMJ-hwvwfDWHtxfMaa3Idr3qKCA49BZ)/dm/3/x828xvr/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno Santa Cruz HD
 https://5ca9af4645e15.streamlock.net/reduno/smil:reduno.smil/chunklist_w414809392_b3428000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181227_atb_digital.png" tvg-name="atb", ATB Cochabamba
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_HJmPYESmGNY6QihfLIbE1k_kxDQsiIPR7zMOhiEDLu)/dm/3/x89sfvo/s/live-0.m3u8
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_HJmPYESmGNY6QihfLIbE1k_kxDQsiIPR7zMOhiEDLu)/dm/3/x89sfvo/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181227_atb_digital.png" tvg-name="atb", ATB Santa Cruz
 https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOscPUBuy6a03AdtWCaQDMne0CHTsLFZ77fo5eyQXi2dJ)/dm/3/x84t82c/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181227_atb_digital.png" tvg-name="atb", ATB La Paz
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOoxVmrKrtKHEmSf6c7aPaJUHGGVU0Bd72XcmQ8T5UoVB)/dm/3/x84eirw/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOrga8P306No7sDDjyMs9u8yp1CtOMagaJfRE4v1Dj3c2)/dm/3/x84t82c/s/live-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/b75/4da/b754dab5f29738cd18de10f7c7c735edf3797137bdd751c943d3edfd438668e8:200" tvg-name="unitel", UNITEL Cochabamba
