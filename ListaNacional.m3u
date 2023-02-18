@@ -1,0 +1,58 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno Cochabamba
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpY68rcTepnjdaJSqHSyoT-FCCMGWNHldbo8k0CVBzIK)/dm/3/x827j2y/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno Santa Cruz
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkub-BpVaLBmQa2wAr3mDfIkuTCVIqTn3hTu49z3Q2XE)/dm/3/x825whp/d/live-3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno La Paz
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLojJCPSDymfi4kIyRRX_PkWWOpYPYStXlMx0khjuSINv)/dm/3/x828xvr/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" tvg-name="reduno", Red Uno Santa Cruz HD
+https://5ca9af4645e15.streamlock.net/reduno/smil:reduno.smil/chunklist_w414809392_b3428000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181227_atb_digital.png" tvg-name="atb", ATB Cochabamba
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxGmkd7H0FKMCe6SYdCB27B83lw_MOwldfVuf8PBj4lv)/dm/3/x89sfvo/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181227_atb_digital.png" tvg-name="atb", ATB Santa Cruz
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOscPUBuy6a03AdtWCaQDMne0CHTsLFZ77fo5eyQXi2dJ)/dm/3/x84t82c/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20181227_atb_digital.png" tvg-name="atb", ATB La Paz
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOtdr1er7QEa27GbEaX0LyLCz7f51teiJRItwvXYGDbrc)/dm/3/x84eirw/d/live-3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/b75/4da/b754dab5f29738cd18de10f7c7c735edf3797137bdd751c943d3edfd438668e8:200" tvg-name="unitel", UNITEL Cochabamba
+https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUPkO8WUmUs2VpEZJJh7iXhadjAe8HQQ2YAc0HZV-bACM)/dm/3/x7y922d/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/b75/4da/b754dab5f29738cd18de10f7c7c735edf3797137bdd751c943d3edfd438668e8:200" tvg-name="unitel", UNITEL Santa Cruz
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZaDMCvgW5Yq34xOEY4Hmz4-zHT7WnnY9ZfgdXZgOP163)/dm/3/x7vsezg/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/b75/4da/b754dab5f29738cd18de10f7c7c735edf3797137bdd751c943d3edfd438668e8:200" tvg-name="unitel", UNITEL La Paz
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8lPUDjpxCkrk17WoTuEsD4z6UE7hSKUXXWwF_sxpkBP)/dm/3/x7wzxiw/s/live-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiZYJ12.png" tvg-name="Bolivision", Bolivision
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" tvg-name="PAT", PAT
+https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png" tvg-name="CadenaA", Cadena A
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w477494953.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" tvg-name="RTP", RTP Bolivia
+https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1496758925.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" tvg-name="TVU", TV Universitaria
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w865587320.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_720/images.spreaker.com/original/687497253733320ea6cd8c5d10c792ec.jpg" tvg-name="EnlaceTV", Enlace Tv
+https://1-221-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+
+
+
